@@ -58,6 +58,8 @@ The purpose of this repository is self-motivation and to keep track of my Machin
 
 ## Contact
 [Twitter:](BitsTsunami)
+
 [Medium:](https://medium.com/@syedmuhammadhamza_23687)
+
 [Linkedin:](https://www.linkedin.com/in/sm-hamza/)
 
