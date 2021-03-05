@@ -37,3 +37,8 @@ The purpose of this repository is self-motivation and to keep track of my Machin
 |One-vs-all Classification Using Logistic Regression | One-vs-all Classification Using Logistic Regression from scratch     |   [Link](https://github.com/SyedMuhammadHamza/Data-science-Portfolio/blob/main/Machine%20Learning/Python/Classification/One-vs-all%20Classification%20Using%20Logistic%20Regression%20.ipynb) |
 | Support vector machine using LinearKernel and gaussianKernel | Support vector machine using LinearKernel and gaussianKernel from scratch|   [Link](https://github.com/SyedMuhammadHamza/Data-science-Portfolio/blob/main/Machine%20Learning/Python/Classification/Support%20vector%20machine%20using%20LinearKernel%20and%20gaussianKernel.ipynb) |
 
+### Unupervised Machine Learning
+| Algorithm        | Description           | Implementation  |
+| ------------- |:-------------:| -----:|
+|    K-MEANS           |   K-MEANS   from scratch   | [Link]() |
+|    PCA           |    PCA from scratch           | [Link]() |
