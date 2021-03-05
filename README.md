@@ -40,5 +40,20 @@ The purpose of this repository is self-motivation and to keep track of my Machin
 ### Unupervised Machine Learning
 | Algorithm        | Description           | Implementation  |
 | ------------- |:-------------:| -----:|
-|    K-MEANS           |   K-MEANS   from scratch   | [Link]() |
-|    PCA           |    PCA from scratch           | [Link]() |
+|    K-MEANS           |   K-MEANS from scratch using Python  | [Link]() |
+|    PCA           |    PCA from scratch  using Python      | [Link]() |
+
+
+### Learning Curve Analysis
+| Algorithm        | Description           | Implementation  |
+| ------------- |:-------------:| -----:|
+|    Learning Curve Analysis of Regularized Linear and Polynomail Regression           |   -  | [Link](https://github.com/SyedMuhammadHamza/Data-science-Portfolio/blob/main/Machine%20Learning/Python/Learning%20Curve%20Analysis/Learning%20Curve%20Analysis%20of%20Regularized%20Linear%20and%20Polynomail%20Regression%20.ipynb) |
+|  Learning Curves Using Scikit-learn             |    -      | [Link](https://github.com/SyedMuhammadHamza/Data-science-Portfolio/blob/main/Machine%20Learning/Python/Learning%20Curve%20Analysis/Learning%20Curves%20Using%20Scikit-learn.ipynb) |
+
+## Deep Learning
+| Algorithm        | Description           | Implementation  |
+| ------------- |:-------------:| -----:|
+|   DNN          |  DNN implmentation from scratch  | [Link](https://github.com/SyedMuhammadHamza/Data-science-Portfolio/blob/main/Machine%20Learning/Python/Classification/Neural%20Network%20From%20Scratch%20.ipynb) |
+
+
+
