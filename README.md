@@ -4,7 +4,7 @@ The purpose of this repository is self-motivation and to keep track of my Machin
 
 ## Table of contents
 
-*About
+* Unordered sub-list.About
 *Table of contents
 *Articles
 *Programming Showcase
