@@ -14,3 +14,10 @@ The purpose of this repository is self-motivation and to keep track of my Machin
  * NLP
 * Courses & Certificates
 * Projects
+
+## Articles
+
+
+| Title          | Link          | Publsh Date  |
+| -------------------------------------------------------------------------------------- |:-------------:| ------------:|
+| Probabilistic Justification for specific Loss function in  Machine Learning Algorithms | [Medium](https://medium.com/@syedmuhammadhamza_23687/probabilistic-justification-for-using-specific-loss-function-in-different-types-of-machine-e60fda8146b2) | 4.02.2021    |
