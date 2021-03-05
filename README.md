@@ -41,7 +41,7 @@ The purpose of this repository is self-motivation and to keep track of my Machin
 ### Unupervised Machine Learning
 | Algorithm        | Description           | Implementation  |
 | ------------- |:-------------:| -----:|
-|    K-MEANS           |   K-MEANS from scratch using Python  | [Link]() |
+|    K-MEANS           |   K-MEANS from scratch using Python  | [Link](https://github.com/SyedMuhammadHamza/Data-science-Portfolio/blob/main/Machine%20Learning/Python/Clustering/K-MEANS.ipynb) |
 |    PCA           |    PCA from scratch  using Python      | [Link]() |
 
 
