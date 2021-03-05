@@ -14,6 +14,7 @@ The purpose of this repository is self-motivation and to keep track of my Machin
  * NLP
 * Courses & Certificates
 * Projects
+* Contact
 
 ## Articles
 
@@ -55,5 +56,8 @@ The purpose of this repository is self-motivation and to keep track of my Machin
 | ------------- |:-------------:| -----:|
 |   DNN          |  DNN implmentation from scratch  | [Link](https://github.com/SyedMuhammadHamza/Data-science-Portfolio/blob/main/Machine%20Learning/Python/Classification/Neural%20Network%20From%20Scratch%20.ipynb) |
 
-
+## Contact
+[Twitter:](BitsTsunami)
+[Medium:](https://medium.com/@syedmuhammadhamza_23687)
+[Linkedin:](https://www.linkedin.com/in/sm-hamza/)
 
