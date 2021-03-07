@@ -27,7 +27,7 @@ The purpose of this repository is self-motivation and to keep track of my Machin
 | Title          |  Description         | Link |
 | -------------------------------------------------------------------------------------- |:-------------:| ------------:|
 | Natural Language Processing with Disaster Tweets |  Natural Language Processing  |   [Link](https://github.com/SyedMuhammadHamza/Natural-Language-Processing-with-Disaster-Tweets) |
-| Kaggle California Housing Prices Analysis And prediction |  Natural Language Processing  |   [Link](https://github.com/SyedMuhammadHamza/Kaggle-California-Housing-Prices-Analysis-And-prediction) |
+| Kaggle California Housing Prices Analysis And prediction | Linear Regression,DecisionTreeRegressor,RandomForestRegressor |   [Link](https://github.com/SyedMuhammadHamza/Kaggle-California-Housing-Prices-Analysis-And-prediction) |
 
 ## Programming Showcase
 
