@@ -61,6 +61,10 @@ The purpose of this repository is self-motivation and to keep track of my Machin
 | Algorithm        | Description           | Implementation  |
 | ------------- |:-------------:| -----:|
 |   DNN          |  DNN implmentation from scratch  | [Link](https://github.com/SyedMuhammadHamza/Data-science-Portfolio/blob/main/Machine%20Learning/Python/Classification/Neural%20Network%20From%20Scratch%20.ipynb) |
+## NLP
+| Algorithm        | Description           | Implementation  |
+| ------------- |:-------------:| -----:|
+|Word Embedding,TF-IDF,BOW |  Word Embedding,TF-IDF,BOW on kaggle dataset  | [Link](https://github.com/SyedMuhammadHamza/Natural-Language-Processing-with-Disaster-Tweets) |
 
 ## Contact
 [Twitter:](BitsTsunami)
