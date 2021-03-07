@@ -23,6 +23,12 @@ The purpose of this repository is self-motivation and to keep track of my Machin
 | -------------------------------------------------------------------------------------- |:-------------:| ------------:|
 | Probabilistic Justification for specific Loss function in  Machine Learning Algorithms | [Medium](https://medium.com/@syedmuhammadhamza_23687/probabilistic-justification-for-using-specific-loss-function-in-different-types-of-machine-e60fda8146b2) | 4.02.2021    |
 
+## Kaggle competition
+| Title          |  Description         | Link |
+| -------------------------------------------------------------------------------------- |:-------------:| ------------:|
+| Natural Language Processing with Disaster Tweets |  Natural Language Processing  |   [Link](https://github.com/SyedMuhammadHamza/Natural-Language-Processing-with-Disaster-Tweets) |
+| Kaggle California Housing Prices Analysis And prediction |  Natural Language Processing  |   [Link](https://github.com/SyedMuhammadHamza/Kaggle-California-Housing-Prices-Analysis-And-prediction) |
+
 ## Programming Showcase
 
 ### Supervised Machine Learning
