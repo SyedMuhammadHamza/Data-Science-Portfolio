@@ -43,6 +43,7 @@ The purpose of this repository is self-motivation and to keep track of my Machin
 | Algorithm        | Description           | Implementation  |
 | ------------- |:-------------:| -----:|
 |Univariate Linear Regression      | Univariate Linear Regression from scratch using Pyhton  | [Link](https://github.com/SyedMuhammadHamza/Data-science-Portfolio/blob/main/Machine%20Learning/Python/Regression/%20%20Univariate%20Linear%20Regression.ipynb) |
+|Univariate Linear Regression      | Univariate Linear Regression from scratch using Octave-MATLAB  | [Link](https://github.com/SyedMuhammadHamza/Data-science-Portfolio/tree/main/Machine%20Learning/Octave-MATLAB/Regression/Univariate%20Linear%20Regression) |
 | Multivariate Linear Regression     | Multivariate Linear Regression from scrach using Pyhton |[Link](https://github.com/SyedMuhammadHamza/Data-science-Portfolio/blob/main/Machine%20Learning/Python/Regression/%20Multivariate%20Linear%20Regression.ipynb)|
 | Locally Weighted Regression | Locally Weighted Regression from scrach using Pyhton  | [Link](https://github.com/SyedMuhammadHamza/Data-science-Portfolio/blob/main/Machine%20Learning/Python/Regression/Locally%20Weighted%20Regression.ipynb) |
 |  Normal Equation closed-form solution     | Normal Equation closed-form solution from scratch   |[Link](https://github.com/SyedMuhammadHamza/Data-science-Portfolio/blob/main/Machine%20Learning/Python/Regression/Normal%20Equation%20closed-form%20solution.ipynb)|
