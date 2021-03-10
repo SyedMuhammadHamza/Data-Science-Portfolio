@@ -29,6 +29,14 @@ The purpose of this repository is self-motivation and to keep track of my Machin
 | Natural Language Processing with Disaster Tweets |  Natural Language Processing  |   [Link](https://github.com/SyedMuhammadHamza/Natural-Language-Processing-with-Disaster-Tweets) |
 | Kaggle California Housing Prices Analysis And prediction | Linear Regression,DecisionTreeRegressor,RandomForestRegressor |   [Link](https://github.com/SyedMuhammadHamza/Kaggle-California-Housing-Prices-Analysis-And-prediction) |
 
+## Projects 
+| Title          |  Description         | Link |
+| -------------------------------------------------------------------------------------- |:-------------:| ------------:|
+| Politician Face Classifier |  collected images from google through web-scraping performed data cleaning, data preprocessing, exploratory data analysis, and build machine learning models such as Logistic Regression, Random Forest, and SVM(Support vector machine) achieved 98% test accuracy and deployed model to production, Used Numpy, OpenCV, SKlearn, CSS, Html, Flask, JavaScript, Selenium
+  |   [Link](https://github.com/SyedMuhammadHamza/Politician-Face-Classifier) |
+| Handwritten Digit Recognizer | Neural Network from scratch in Python to recognize handwritten digit achieved 98.45% test accuracy and using Keras CNN(Convolutional neural network) achieved 99.25% test accuracy deployed model to production |   [Link](https://github.com/SyedMuhammadHamza/Handwritten-Digit-Recognizer) |
+
+
 ## Programming Showcase
 
 ### Supervised Machine Learning
