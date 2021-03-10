@@ -76,6 +76,11 @@ The purpose of this repository is self-motivation and to keep track of my Machin
 | ------------- |:-------------:| -----:|
 |Word Embedding,TF-IDF,BOW |  Word Embedding,TF-IDF,BOW on kaggle dataset  | [Link](https://github.com/SyedMuhammadHamza/Natural-Language-Processing-with-Disaster-Tweets) |
 
+## Machine Learning-Stanford-Andrew Ng-exercises
+| Title          |  Description         | Link |
+| -------------------------------------------------------------------------------------- |:-------------:| ------------:|
+| ML exercises |  Octave/MATHLAB  |   [Link](https://github.com/SyedMuhammadHamza/Data-science-Portfolio/tree/main/Machine%20Learning/Octave-MATLAB) |
+
 ## Courses & Certificates
 * [Introduction to Database Systems](https://edge.edx.org/courses/course-v1:BerkeleyX+CSW186+2019_FA/course/) (2019) edX-uc berkeley university-Joe Hellerstein
 * [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7)(2017) edX-MIT-Eric Grimson
