@@ -4,13 +4,13 @@ The purpose of this repository is self-motivation and to keep track of my Machin
 
 ## Table of contents
 
-* [About](## About)
-* [Table of contents](## Table of contents)
-* [Articles](## Articles)
-* [Kaggle competition](## Kaggle competition)
-* [Programming Showcase](## Programming Showcase)
- * [Supervised Machine Learning](### Supervised Machine Learning)
- * [Unsupervised Machine Learning](### Unupervised Machine Learning)
+* [About](##About)
+* [Table of contents](##Table of contents)
+* [Articles](##Articles)
+* [Kaggle competition](##Kaggle competition)
+* [Programming Showcase](##Programming Showcase)
+ * [Supervised Machine Learning](###Supervised Machine Learning)
+ * [Unsupervised Machine Learning](###Unupervised Machine Learning)
  * [Deep Learning](## Deep Learning)
  * [NLP](##NLP)
 * [Courses & Certificates](## Courses & Certificates)
