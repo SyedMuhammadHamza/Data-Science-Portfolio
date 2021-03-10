@@ -4,17 +4,18 @@ The purpose of this repository is self-motivation and to keep track of my Machin
 
 ## Table of contents
 
-* About
-* Table of contents
-* Articles
-* Programming Showcase
- * Supervised Machine Learning
- * Unsupervised Machine Learning
- * Deep Learning
- * NLP
-* Courses & Certificates
-* Projects
-* Contact
+* [About](## About)
+* [Table of contents](## Table of contents)
+* [Articles](## Articles)
+* [Kaggle competition](## Kaggle competition)
+* [Programming Showcase](## Programming Showcase)
+ * [Supervised Machine Learning](### Supervised Machine Learning)
+ * [Unsupervised Machine Learning](### Unupervised Machine Learning)
+ * [Deep Learning](## Deep Learning)
+ * [NLP](##NLP)
+* [Courses & Certificates](## Courses & Certificates)
+* [Projects](##Projects)
+* [Contact](##Contact)
 
 ## Articles
 
@@ -68,6 +69,8 @@ The purpose of this repository is self-motivation and to keep track of my Machin
 | Algorithm        | Description           | Implementation  |
 | ------------- |:-------------:| -----:|
 |   DNN          |  DNN implmentation from scratch  | [Link](https://github.com/SyedMuhammadHamza/Data-science-Portfolio/blob/main/Machine%20Learning/Python/Classification/Neural%20Network%20From%20Scratch%20.ipynb) |
+|   CNN          |  CNN using Keras  | [Link](https://github.com/SyedMuhammadHamza/Handwritten-Digit-Recognizer/blob/main/Convolutional%20neural%20network.py) |
+|   LSTM RNN          | LSTM RNN  implmentation uing keras  | [Link](https://github.com/SyedMuhammadHamza/Natural-Language-Processing-with-Disaster-Tweets/blob/main/Embedding%20and%20LSTM%20Recurrent%20Neural%20Network.py) |
 ## NLP
 | Algorithm        | Description           | Implementation  |
 | ------------- |:-------------:| -----:|
@@ -82,6 +85,7 @@ The purpose of this repository is self-motivation and to keep track of my Machin
 * [Single Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)(2020) OCW-MIT-Prof. David Jerison
 * [Introduction to Probability](https://ocw.mit.edu/resources/res-6-012-introduction-to-probability-spring-2018/) (2020)OCW-MIT-Prof. John Tsitsiklis
 * [Introduction to Compiler Construction](https://courses.cs.washington.edu/courses/cse401/)(2019)OCW-The Paul G. Allen Center for Computer Science & Engineering-Hal Perkins
+* [Artificial Intelligence](https://courses.edx.org/courses/BerkeleyX/CS188.1x-4/1T2015/course/)(2018) edX-uc berkeley university-Dan Klein 
 * [Machine Learning-Stanford](https://www.coursera.org/learn/machine-learning)(2020) Coursera - Stanford - Andrew Ng
 * [CS229 - Machine Learning](https://see.stanford.edu/Course/CS229)(2020)Stanford - Andrew Ng
 * [Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)(2018)OCW-MIT-Srini Devadas & Erik Demaine
