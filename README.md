@@ -73,6 +73,20 @@ The purpose of this repository is self-motivation and to keep track of my Machin
 | ------------- |:-------------:| -----:|
 |Word Embedding,TF-IDF,BOW |  Word Embedding,TF-IDF,BOW on kaggle dataset  | [Link](https://github.com/SyedMuhammadHamza/Natural-Language-Processing-with-Disaster-Tweets) |
 
+## Courses & Certificates
+* [Introduction to Database Systems](https://edge.edx.org/courses/course-v1:BerkeleyX+CSW186+2019_FA/course/) (2019) edX-uc berkeley university-Joe Hellerstein
+* [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7)(2017) edX-MIT-Eric Grimson
+* [CS 61B: Data Structures](https://inst.eecs.berkeley.edu/~cs61b/sp20/)(2018) OCW-uc berkeley university-Jonathan Shewchuk
+* [Mathematics for Computer Science/Discrete mathematics](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/) OCW- MIT-Prof. Tom Leighton
+* [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)(2019) OCW-MIT-Prof. Gilbert Strang
+* [Single Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)(2020) OCW-MIT-Prof. David Jerison
+* [Introduction to Probability](https://ocw.mit.edu/resources/res-6-012-introduction-to-probability-spring-2018/) (2020)OCW-MIT-Prof. John Tsitsiklis
+* [Introduction to Compiler Construction](https://courses.cs.washington.edu/courses/cse401/)(2019)OCW-The Paul G. Allen Center for Computer Science & Engineering-Hal Perkins
+* [Machine Learning-Stanford](https://www.coursera.org/learn/machine-learning)(2020) Coursera - Stanford - Andrew Ng
+* [CS229 - Machine Learning](https://see.stanford.edu/Course/CS229)(2020)Stanford - Andrew Ng
+* [Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)(2018)OCW-MIT-Srini Devadas & Erik Demaine
+
+
 ## Contact
 [Twitter:](BitsTsunami)
 
