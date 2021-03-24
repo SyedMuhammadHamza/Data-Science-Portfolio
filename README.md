@@ -29,6 +29,7 @@ The purpose of this repository is self-motivation and to keep track of my Machin
 | -------------------------------------------------------------------------------------- |:-------------:| ------------:|
 | Natural Language Processing with Disaster Tweets |  Natural Language Processing  |   [Link](https://github.com/SyedMuhammadHamza/Natural-Language-Processing-with-Disaster-Tweets) |
 | Kaggle California Housing Prices Analysis And prediction | Linear Regression,DecisionTreeRegressor,RandomForestRegressor |   [Link](https://github.com/SyedMuhammadHamza/Kaggle-California-Housing-Prices-Analysis-And-prediction) |
+|kc house data price nd prediction| Ensemble Learning Boosting(XGboost) and Ensemble Learning Bagging(RandomForestRegressor)| [Link](https://github.com/SyedMuhammadHamza/Data-science-Portfolio/blob/main/Machine%20Learning/Python/Ensemble%20Learning/Kc_House_data_Analysis_and_Prediction.ipynb)|
 
 ## Projects 
 | Title          |  Description         | Link |
@@ -51,6 +52,9 @@ The purpose of this repository is self-motivation and to keep track of my Machin
 | Logistic Regression on Nonlinear Data | Logistic Regression on Nonlinear Data from scratch     |   [Link](https://github.com/SyedMuhammadHamza/Data-science-Portfolio/blob/main/Machine%20Learning/Python/Classification/Logistic%20Regression%20on%20Nonlinear%20Data.ipynb) |
 |One-vs-all Classification Using Logistic Regression | One-vs-all Classification Using Logistic Regression from scratch     |   [Link](https://github.com/SyedMuhammadHamza/Data-science-Portfolio/blob/main/Machine%20Learning/Python/Classification/One-vs-all%20Classification%20Using%20Logistic%20Regression%20.ipynb) |
 | Support vector machine using LinearKernel and gaussianKernel | Support vector machine using LinearKernel and gaussianKernel from scratch|   [Link](https://github.com/SyedMuhammadHamza/Data-science-Portfolio/blob/main/Machine%20Learning/Python/Classification/Support%20vector%20machine%20using%20LinearKernel%20and%20gaussianKernel.ipynb) |
+| Ensemble Learning Bagging(RandomForestRegressor)| SKlearn |   [Link](https://github.com/SyedMuhammadHamza/Data-science-Portfolio/blob/main/Machine%20Learning/Python/Ensemble%20Learning/Kc_House_data_Analysis_and_Prediction.ipynb) |
+| Ensemble Learning Boosting(XGboost)| SKlearn |   [Link](https://github.com/SyedMuhammadHamza/Data-science-Portfolio/blob/main/Machine%20Learning/Python/Ensemble%20Learning/Kc_House_data_Analysis_and_Prediction.ipynb) |
+
 
 ### Unupervised Machine Learning
 | Algorithm        | Description           | Implementation  |
