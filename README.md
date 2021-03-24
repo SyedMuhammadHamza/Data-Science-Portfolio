@@ -83,7 +83,7 @@ The purpose of this repository is self-motivation and to keep track of my Machin
 ## NLP
 | Algorithm        | Description           | Implementation  |
 | ------------- |:-------------:| -----:|
-|Word Embedding,TF-IDF,BOW |  Word Embedding,TF-IDF,BOW on kaggle dataset  | [Link](https://github.com/SyedMuhammadHamza/Natural-Language-Processing-with-Disaster-Tweets) |
+|Word Embedding,TF-IDF,BOW with Embedding and LSTM Recurrent Neural Network  |  Word Embedding,TF-IDF,BOW with Embedding and LSTM Recurrent Neural Network  on kaggle dataset  | [Link](https://github.com/SyedMuhammadHamza/Natural-Language-Processing-with-Disaster-Tweets) |
 
 ## Machine Learning-Stanford-Andrew Ng-exercises
 | Title          |  Description         | Link |
