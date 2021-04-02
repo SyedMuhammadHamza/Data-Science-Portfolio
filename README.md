@@ -60,6 +60,7 @@ The purpose of this repository is self-motivation and to keep track of my Machin
 | Algorithm        | Description           | Implementation  |
 | ------------- |:-------------:| -----:|
 |    K-MEANS           |   K-MEANS from scratch using Python  | [Link](https://github.com/SyedMuhammadHamza/Data-science-Portfolio/blob/main/Machine%20Learning/Python/Clustering/K-MEANS.ipynb) |
+|    Anomaly Detection           |    Anomaly Detection from scratch  using Python      | [Link](https://github.com/SyedMuhammadHamza/Data-science-Portfolio/blob/main/Machine%20Learning/Python/Anomaly%20Detection/Anomaly%20Detection.ipynb) |
 |    PCA           |    PCA from scratch  using Python      | [Link]() |
 
 
