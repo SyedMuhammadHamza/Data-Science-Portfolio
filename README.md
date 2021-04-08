@@ -73,7 +73,7 @@ The purpose of this repository is self-motivation and to keep track of my Machin
 ### Time Series Analysis
 | Algorithm        | Description           | Implementation  |
 | ------------- |:-------------:| -----:|
-|Time Series Analysis|  Time Series Analysis using Python  | [Link](https://github.com/SyedMuhammadHamza/Natural-Language-Processing-with-Disaster-Tweets) |
+|Time Series Analysis|  Time Series Analysis using Python  | [Link](https://github.com/SyedMuhammadHamza/Data-science-Portfolio/blob/main/Machine%20Learning/Python/Time%20Series/Time%20series%20Analysis.ipynb) |
 
 ## Deep Learning
 | Algorithm        | Description           | Implementation  |
