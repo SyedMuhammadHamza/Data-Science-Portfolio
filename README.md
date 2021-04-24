@@ -1,4 +1,4 @@
-# Data Science Portfolio
+# Machine-Learning-Algorithms
 ## About
 The purpose of this repository is self-motivation and to keep track of my Machine learning, Natural Language Processing & Data Science related stuff progress
 
