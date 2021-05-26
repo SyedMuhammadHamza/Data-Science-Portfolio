@@ -4,18 +4,22 @@ The purpose of this repository is self-motivation and to keep track of my Machin
 
 ## Table of contents
 
-* [About](##About)
-* [Table of contents]()
-* [Articles]()
-* [Kaggle competition]()
-* [Programming Showcase]()
-   - [Supervised Machine Learning]()
-   - [Unsupervised Machine Learning]()
-   - [Deep Learning]()
-   - [NLP]()
-* [Courses & Certificates]()
-* [Projects]()
-* [Contact]()
+- [Articles](#articles)
+- [Kaggle competition](#kaggle-competition)
+- [Projects](#projects)
+- [Programming Showcase](#programming-showcase)
+  * [Supervised Machine Learning](#supervised-machine-learning)
+  * [Unupervised Machine Learning](#unupervised-machine-learning)
+  * [Learning Curve Analysis](#learning-curve-analysis)
+  * [Time Series Analysis](#time-series-analysis)
+- [Deep Learning](#deep-learning)
+- [NLP](#nlp)
+- [Machine Learning-Stanford-Andrew Ng-exercises](#machine-learning-stanford-andrew-ng-exercises)
+- [Courses & Certificates](#courses---certificates)
+- [Contact](#contact)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
 
 ## Articles
 
@@ -23,6 +27,10 @@ The purpose of this repository is self-motivation and to keep track of my Machin
 | Title          | Link          | Publsh Date  |
 | -------------------------------------------------------------------------------------- |:-------------:| ------------:|
 | Probabilistic Justification for specific Loss function in  Machine Learning Algorithms | [Medium](https://medium.com/@syedmuhammadhamza_23687/probabilistic-justification-for-using-specific-loss-function-in-different-types-of-machine-e60fda8146b2) | 4.02.2021    |
+| Hybrid Recommendation System Web-Application Part 1: Exploratory Data Analysis with PostgreSQL | [Medium](https://medium.com/@syedmuhammadhamza_23687/hybrid-recommendation-system-web-application-part-1-exploratory-data-analysis-with-postgresql-642ed890c06b) | 3.04.2021    |
+
+
+
 
 ## Kaggle competition
 | Title          |  Description         | Link |
@@ -34,7 +42,9 @@ The purpose of this repository is self-motivation and to keep track of my Machin
 ## Projects 
 | Title          |  Description         | Link |
 | -------------------------------------------------------------------------------------- |:-------------:| ------------:|
+|Movie Recommender System| Implemented a Regression-based Hybrid of Collaborative Filtering and Content-Based Recommendation System from scratch for a Movie Recommendation web-Application and deployed it using Flask. |   [Link](https://github.com/SyedMuhammadHamza/Hybrid-recommendation-system-web-application) |
 |Myers–Briggs Type Indicator (MBTI) classification Web Application | Implemented Recurrent Neural Networks(RNN) with LSTM and Multinomial Logistic Regression using Bag of words and TF-IDF features in Flask web app to classify, “Myers–Briggs Type Indicator (MBTI)” personality types, Collected data using Pushshift API from Reddit performed data cleaning, analysis, and exploration, used SMOTE to solve class imbalance problem |   [Link](https://github.com/SyedMuhammadHamza/Myers-Briggs-Type-Indicator-MBTI-classification-Web-App) |
+|Consumer-Finance-Complaints-Text-classification-with-PostgreSQL| Classifying Consumer Finance Complaints into one of eleven product categories, The problem is a Text classification, also known as text tagging or text categorization. Text classifiers can automatically analyze text and then assign a set of pre-defined tags or categories based on its content. In this problem, I have taken 'consumer_complaint_narrative' as “text” and to classify each consumer_complaint_narrative / “text” into one of eleven pre-defined categories of product. |   [Link](https://github.com/SyedMuhammadHamza/Consumer-Finance-Complaints-Text-classification-with-PostgreSQL) |
 | Politician Face Classifier |  collected images from google through web-scraping performed data cleaning, data preprocessing, exploratory data analysis, and build machine learning models such as Logistic Regression, Random Forest, and SVM(Support vector machine) achieved 98% test accuracy and deployed model to production, Used Numpy, OpenCV, SKlearn, CSS, Html, Flask, JavaScript, Selenium|   [Link](https://github.com/SyedMuhammadHamza/Politician-Face-Classifier) |
 | Handwritten Digit Recognizer | Neural Network from scratch in Python to recognize handwritten digit achieved 98.45% test accuracy and using Keras CNN(Convolutional neural network) achieved 99.25% test accuracy deployed model to production |   [Link](https://github.com/SyedMuhammadHamza/Handwritten-Digit-Recognizer) |
 
